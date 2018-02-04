@@ -5,5 +5,6 @@
 * HTTP
 * Tcp
 * Protbufメッセージ
+* Objectメッセージ 
 * Database ORM
 * Red ORM
